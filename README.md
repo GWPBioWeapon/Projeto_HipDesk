@@ -1,2 +1,6 @@
-# Projeto_HipDesk
-Sistema para abertura de chamados denominado Hip-Desk para empresa de tecnologia fictícia chamada Hip-Data, desenvolvido em grupo com um projeto interdisciplinar.
+# Sobre
+Aplicação desktop conectada á banco de dados permitindo que o usuário crie ou edite chamado, detalhando os problemas, marcando categorias, e então enviando para análise.
+
+# Tecnologias
+-C#
+-OpenSQL
